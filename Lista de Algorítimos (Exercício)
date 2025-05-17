@@ -1,0 +1,90 @@
+Questão 1.
+  1-Pegar a escada;
+  2-Posicionar a escada embaixo da lâmpada;
+  3-Buscar a lâmpada reserva;
+  4-Subir na escada;
+  5-Retirar a lâmpada velha;
+  6-Colocar a lâmpada de reserva.
+
+Questão 2.
+  -Usando a fatoração, temos:
+
+  1-Informar os números naturais;
+  2-Decompô-los em fatores primos;
+  3-Escreve-los em forma fatorada;
+  4-Selecionar os fatores comuns com menor expoente;
+  5-Resolver as potências;
+  6-Multiplicar o resultado das potências;
+  7-Escrever o resultado.
+
+Questão 3.
+  1-Leva o bode;
+  2-Volta com o barco vazio;
+  3-Leva o maço de alfafa;
+  4-Volta com o bode;
+  5-Deixa o bode e leva o lobo;
+  6-Volta com o barco vazio;
+  7-Leva o bode.
+
+Questão 4.
+  1-Embarco 1J e 1C, levando-os para a margem direita;
+  2-Canibal desembarca e 1J volta no barco;
+  3-Canibal embarca, indo 1C e 1J para a margem direita;
+  4-Desembarca 1J e rotorna 1C no barco;
+  5-Embarca 1J, indo 1C e 1J no barco;
+  6-Desembarca 1J, e 1C retorna no barco;
+  7-Embarca 1C, e o barco vai para a margem direita com 2C;
+  8-Desembarca 1C, e o outro canibal retorna para a margem esquerda;
+  9-Embarca 1J e o barco vai até a margem direita, levando 1J e 1C;
+  10-Ambos desembarcam.
+
+Questão 5.
+  1-Mova o disco1 para a haste-c;
+  2-Mova o disco2 para a haste-b;
+  3-Mova o disco1 para a haste-b;
+  4-Mova o disco3 para a haste-c;
+  5-Mova o disco1 para a haste-a.
+
+Questão 6.
+  Amanda- Comprou um livro;
+  Bete- Comprou um vestido;
+  Camila- Comprou uma bolsa;
+  Divina- Comprou uma gravata;
+  Elisa- Comprou um candeeiro;
+  Filomena- Comprou um chapéu.
+
+Questão 7.
+  1-Primeiro, passamos os 3L do barril-C, para o barril-A;
+  2-Depois, passamos apenas 1L do barril-B para o barril-A.
+
+Questão 8.
+  João- Toca Harpa às quintas;
+  Antônio- Toca Violino às quintas;
+  Francisco- Toca Piano às terças.
+
+Questão 9.
+Pessoa----------Bebida
+João	    |   limonada
+Miguel	  |   guaraná
+Nádia	    |     whisky
+Sílvia	  |   champanhe
+Afonso	  |       água
+Cristina	|    vermouth
+Geraldo	  |       vinho
+Júlio	    |       café
+Maria	    |  laranjada
+Máximo	  |      vodka
+Ivone	    |        chá
+Manuel	  |     cerveja
+
+Questão 10.
+Nomes-------------Modalidade------------posição
+
+Teodoro      |       100m rasos        |        1º
+Gumercindo   |     arremesso de d.     |        2º
+Barnabé      |      salto à dist.      |        3º
+
+
+Teodoro-    1º nos 100m rasos    | 2º no salto     | 3º no arremesso.
+Barnabé-    1º no arremesso de d.  | 2º nos 100m | 3º no salto.
+Gumercindo- 1º no salto à dist.  | 2º no arremesso | 3º nos 100m.
