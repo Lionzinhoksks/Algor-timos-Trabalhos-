@@ -1,0 +1,15 @@
+Algoritmo ConversorMoedas
+
+Início
+    real: reais, euro, libras, dolar
+
+    escreva("Quantos reais queres converter: ")
+    leia(reais)
+
+    euro ← reais / 6.40
+    libras ← reais / 7.53
+    dolar ← reais / 5.60
+
+    escreva("\nDólar: ", dolar, "\nEuro: ", euro, "\nLibras: ", libras, "\n")
+
+Fim

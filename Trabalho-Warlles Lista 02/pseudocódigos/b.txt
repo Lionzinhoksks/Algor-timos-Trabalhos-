@@ -1,0 +1,28 @@
+Algoritmo TrocarNomeSobrenome
+
+Início
+    // Declaração de variáveis
+    Cadeia: nome, sobrenome, trocar
+
+    // Entrada de dados
+    Escreva("Insira seu pré-nome: ")
+    Leia(nome)
+
+    Escreva("Insira seu sobrenome: ")
+    Leia(sobrenome)
+
+    // Exibição antes da troca
+    Escreva("É a vez do: ")
+    Escreva(nome, " ", sobrenome)
+
+    Escreva("\n")
+
+    // Troca dos valores
+    trocar ← nome
+    nome ← sobrenome
+    sobrenome ← trocar
+
+    // Exibição após a troca
+    Escreva(nome, " ", sobrenome)
+
+Fim

@@ -1,0 +1,18 @@
+Algoritmo SaldoViagem
+
+Início
+    Real: reais, gastoUSD, gastoEUR, gastoGBP
+
+    reais ← 60000
+    gastoUSD ← 4095 * 5.60
+    gastoEUR ← 4500 * 6.40
+    gastoGBP ← 8500 * 7.53
+
+    Escreva("SALDO QUANDO PARTIU DO BRASIL (EM REAIS): ", reais)
+    Escreva("")
+
+    reais ← reais - (gastoEUR + gastoGBP + gastoUSD)
+
+    Escreva("SALDO QUANDO CHEGOU NO BRASIL (EM REAIS): ", reais)
+
+Fim

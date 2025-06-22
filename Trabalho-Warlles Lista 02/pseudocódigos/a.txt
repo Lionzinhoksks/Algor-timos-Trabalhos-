@@ -1,0 +1,12 @@
+Algoritmo DesenhoEstrela
+
+Início
+    Escreva("**********         ***           *               *\n")
+    Escreva("*        *       *     *        ***             * *\n")
+    Escreva("*        *      *       *      *****           *   *\n")
+    Escreva("*        *      *       *     *******         *     *\n")
+    Escreva("*        *      *       *    *********         *   *\n")
+    Escreva("*        *       *     *         *              * *\n")
+    Escreva("**********         ***           *               *\n")
+
+Fim

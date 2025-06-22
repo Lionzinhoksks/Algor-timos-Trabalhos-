@@ -1,0 +1,20 @@
+Algoritmo VolumeCilindro
+
+Inicio
+    real: r, h, volume, volume_ml, PI
+
+    PI ← 3.14159
+
+    escreva("Digite o raio: ")
+    leia(r)
+
+    escreva("Digite a altura: ")
+    leia(h)
+
+    volume ← PI * pot(r, 2) * h
+    volume_ml ← volume * 1000
+
+    escreva("O volume é: ", volume, " litros\n")
+    escreva("Que corresponde a ", volume_ml, " mililitros\n")
+
+Fim

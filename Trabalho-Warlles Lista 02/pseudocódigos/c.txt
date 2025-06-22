@@ -1,0 +1,31 @@
+Algoritmo CalculadoraSimples
+
+Início
+    // Declaração de variáveis
+    Real: n1, n2, sm, sb, m, q
+    Inteiro: r
+
+    // Entrada de dados
+    Escreva("CALCULADORA SIMPLES\n")
+
+    Escreva("Digite o 1º número: ")
+    Leia(n1)
+
+    Escreva("Digite o 2º número: ")
+    Leia(n2)
+
+    // Processamento
+    sm ← n1 + n2
+    sb ← n1 - n2
+    m ← n1 * n2
+    r ← inteiro(n1) % inteiro(n2)
+    q ← n1 / n2
+
+    // Saída de dados
+    Escreva("A soma = ", sm)
+    Escreva("A subtração = ", sb)
+    Escreva("A multiplicação = ", m)
+    Escreva("O resto = ", r)
+    Escreva("A divisão = ", q)
+
+Fim
