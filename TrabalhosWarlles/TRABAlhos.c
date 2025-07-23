@@ -14,7 +14,7 @@ int main() {
     scanf("%d", &Ano);
     printf("A data informada é: %.2d/%.2d/%d\n", Ano, Mes, Dia);
     
-    if(Dia <= 31 && Mes <= 12) {
+    if(Dia <= 31 && Mes <= 12 && Dia > 0 && Mes > 0 && Ano > 0) {
         printf("A data informada é: %.2d/%.2d/%d\n", Dia, Mes, Ano);
     } else {
         printf("Esta data é inválida, insira uma data válida.");
