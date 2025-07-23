@@ -20,5 +20,6 @@ int main() {
         printf("Esta data é inválida, insira uma data válida.");
     }
     
-    
     return 0;
+
+}
