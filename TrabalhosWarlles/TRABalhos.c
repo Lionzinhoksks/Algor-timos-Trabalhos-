@@ -12,7 +12,7 @@ int main() {
     printf("Informe um Ano(aaaa): ", "\n");
     scanf("%d", &Ano);
     
-    if(Dia <= 31 && Mes <= 12 || Dia <= 0 || Mes <= 0 || Ano <= 0) {
+    if(Dia <= 31 && Mes <= 12 && Dia > 0 && Mes > 0 && Ano > 0) {
         printf("A data informada é: %.2d/%.2d/%d", Dia, Mes, Ano, "\n");
     } else {
         printf("Esta data é inválida, insira uma data válida.\n");
